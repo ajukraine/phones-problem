@@ -1,4 +1,4 @@
-![Continious integration](https://github.com/ajukraine/phones-problem/workflows/Continious%20integration/badge.svg)
+![Continious integration](https://github.com/ajukraine/phones-problem/workflows/Continuous%20integration/badge.svg)
 
 ## The problem
 
