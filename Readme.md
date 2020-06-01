@@ -1,3 +1,5 @@
+![Continious integration](https://github.com/ajukraine/phones-problem/workflows/Continious%20integration/badge.svg)
+
 ## The problem
 
 Define base class (or interface) "phone" (name, company, price). Define two derived classes: "mobile phone" (color, memory size) and "radio phone" (range, availability of auto-answer).
