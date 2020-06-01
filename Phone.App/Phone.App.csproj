@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Dahomey.Json" Version="*"/>
+    <PackageReference Include="Serilog.Sinks.File" Version="*"/>
+    <PackageReference Include="Dawn.Guard" Version="*"/>
+  </ItemGroup>
+</Project>

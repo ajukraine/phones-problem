@@ -1,0 +1,26 @@
+[
+    {
+        "_type": "MobilePhone",
+        "name": "iPhone",
+        "company": "Apple",
+        "price": 799,
+        "color": "black",
+        "memorySize": 64
+    },
+    {
+        "_type": "RadioPhone",
+        "name": "Brick",
+        "company": "Huawei",
+        "price": 400,
+        "range": 2000,
+        "supportsAutoAnswer": true
+    },
+    {
+        "_type": "MobilePhone",
+        "name": "Samsung S10",
+        "company": "Samsung",
+        "price": 700.0,
+        "color": "grey",
+        "memorySize": 128
+    }
+]

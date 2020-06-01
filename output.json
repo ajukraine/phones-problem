@@ -1,0 +1,29 @@
+{
+  "phonesSortedByPrice": [
+    {
+      "_type": "RadioPhone",
+      "range": 2000,
+      "supportsAutoAnswer": true,
+      "name": "Brick",
+      "company": "Huawei",
+      "price": 400
+    },
+    {
+      "_type": "MobilePhone",
+      "color": "grey",
+      "memorySize": 128,
+      "name": "Samsung S10",
+      "company": "Samsung",
+      "price": 700.0
+    },
+    {
+      "_type": "MobilePhone",
+      "color": "black",
+      "memorySize": 64,
+      "name": "iPhone",
+      "company": "Apple",
+      "price": 799
+    }
+  ],
+  "totalPrice": 1899.0
+}
